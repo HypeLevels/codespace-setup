@@ -14,7 +14,6 @@
         "moby": false,
         "dockerDashComposeVersion": "v2"
       },
-      "ghcr.io/schlich/devcontainer-features/powerlevel10k:1": {}
     },
     "containerEnv": {},
     "remoteEnv": {},
