@@ -10,7 +10,8 @@
       "ghcr.io/devcontainers/features/docker-outside-of-docker:1": {
         "moby": false,
         "dockerDashComposeVersion": "v2"
-      }
+      },
+      "ghcr.io/schlich/devcontainer-features/powerlevel10k:1": {}
     },
     "containerEnv": {},
     "remoteEnv": {},
