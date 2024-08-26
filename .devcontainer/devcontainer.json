@@ -19,7 +19,6 @@
           "oven.bun-vscode",
           "teabyii.ayu",
           "streetsidesoftware.code-spell-checker",
-          "WallabyJs.console-ninja",
           "dbaeumer.vscode-eslint",
           "miguelsolorio.fluent-icons",
           "GitHub.copilot",
@@ -157,7 +156,6 @@
           "[javascript]": {
             "editor.defaultFormatter": "vscode.typescript-language-features"
           },
-          "console-ninja.featureSet": "Community",
           "workbench.editor.empty.hint": "hidden",
           "update.showReleaseNotes": false,
           "security.promptForLocalFileProtocolHandling": false,
