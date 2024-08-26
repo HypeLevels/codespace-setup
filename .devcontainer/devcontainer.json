@@ -1,6 +1,9 @@
 {
     "name": "Bun",
-    "image": "oven/bun",
+    "build": {
+        "dockerfile": "Dockerfile",
+        "context": "."
+    },
     "remoteUser": "root",
     "features": {
       "ghcr.io/devcontainers/features/common-utils:2": {
