@@ -6,14 +6,11 @@
     },
     "remoteUser": "root",
     "features": {
-      "ghcr.io/devcontainers/features/common-utils:2": {
-        "configureZshAsDefaultShell": true
-      },
       "ghcr.io/devcontainers/features/github-cli:1": {},
       "ghcr.io/devcontainers/features/docker-outside-of-docker:1": {
         "moby": false,
         "dockerDashComposeVersion": "v2"
-      },
+      }
     },
     "containerEnv": {},
     "remoteEnv": {},
@@ -120,7 +117,7 @@
           "editor.accessibilitySupport": "off",
           "explorer.confirmDragAndDrop": false,
           "terminal.integrated.fontSize": 14,
-          "terminal.integrated.fontFamily": "JetBrains Mono",
+          "terminal.integrated.fontFamily": "JetBrainsMono NF",
           "editor.codeActionsOnSave": {
             "source.fixAll.eslint": "explicit"
           },
@@ -132,7 +129,7 @@
           "editor.semanticHighlighting.enabled": false,
           "breadcrumbs.enabled": false,
           "workbench.productIconTheme": "fluent-icons",
-          "editor.fontFamily": "JetBrains Mono",
+          "editor.fontFamily": "JetBrainsMono NF",
           "gitlens.codeLens.authors.enabled": false,
           "editor.tabSize": 4,
           "security.workspace.trust.untrustedFiles": "newWindow",
